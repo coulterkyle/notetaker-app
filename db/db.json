@@ -3,10 +3,5 @@
         "title": "Test Title",
         "text": "Test text",
         "note_id": 12345
-    },
-    {
-        "title": "hello",
-        "text": "world",
-        "note_id": "1cdc1188-6610-4518-97c0-173a9565e17a"
     }
 ]
